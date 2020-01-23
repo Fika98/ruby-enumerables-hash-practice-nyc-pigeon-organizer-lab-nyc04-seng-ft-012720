@@ -13,5 +13,6 @@ data.each do |pigeon_attribute hash_of_attribute_values|
         end
       end
     end
-  end 
+  end
+  new_pigeon_data
 end
